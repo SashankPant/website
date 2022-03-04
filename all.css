@@ -15,14 +15,15 @@
 	font-size:20px; 
 }
 .ending h6{
-	margin-left:5px;
+	margin-left:10px;
 	font-size:20px;
 	}
-.endingh7{
+.ending h1{
    margin-right:10px;
    font-size:20px;
+   	margin-bottom:10px;
    	}
-.endingh8{
+.ending h2{
 margin-left:10px;
 font-size:20px;	
 }   	
@@ -39,8 +40,8 @@ nav{
 	height:80px;
 	width:355px;
     color:yellow;
-    margin-top:250px;
-    margin-right:100px;
+    margin-top:20px;
+    margin-right:1000px;
     float:right;
 }
 
@@ -49,8 +50,10 @@ nav{
 	color:orange;
 	width:200px;
 	margin-top:250px;
-    margin-left:150px;
+    margin-left:600px;
+    font-
 }
+
 .ending{
 	color:skyblue;
 	height:70px;
@@ -60,9 +63,10 @@ nav{
 	padding:0 75px;
 }
 .mainbody1{
-	width:100%;
 	height:100%;
+	width:100%;
 	background-color:black;
+	display:grid;
 }
 .label{
 	color:white;
@@ -102,4 +106,47 @@ nav ul li a{
 .mainbody2{
 	background-color:black;
 	text-align:center;
+	height: 100%;
+}
+.mainbody4{
+	background-color:black;
+}
+}
+.myfolio{
+	background-color: black;
+}
+a{
+	text-decoration:none;
+}
+p{
+	font-size:35px;
+	margin-left:20px;
+    float:left;
+    text-align:center;
+    background-color:pink;
+    font-color:orange; 
+}
+
+
+.aboutmyself h5{
+	font-size:25px;
+}
+.myfolio h4{
+	font-color:yellow;
+    font-size:15px;
+}
+.image1{
+	box-shadow: 4.5px 4px 6px 2px rgba(0,0,0,0.6);
+    margin-right:1100px;	
+    margin-top:20px;
+}
+
+.image2{
+	margin-right:500px;
+}
+.image3{
+	margin-left:300px;
+}
+.image4{
+	margin-left:1000px;
 }
