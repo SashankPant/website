@@ -25,7 +25,10 @@
    margin-right:10px;
    font-size:20px;
    	margin-bottom:10px;
+<<<<<<< HEAD
     color:skyblue;
+=======
+>>>>>>> f3afffb69a80dc29695e791cf9d12019d0185bbc
    	}
 .ending h2{
 margin-left:10px;
@@ -44,7 +47,11 @@ nav{
 	height:50px;
 	width:355px;
     color:yellow;
+<<<<<<< HEAD
     margin-top:10px;
+=======
+    margin-top:20px;
+>>>>>>> f3afffb69a80dc29695e791cf9d12019d0185bbc
     margin-right:1000px;
     float:right;
 }
@@ -52,10 +59,17 @@ nav{
 .aboutmyself{
 	height:50px;
 	color:orange;
+<<<<<<< HEAD
 	width:600px;
 	margin-top:-250px;
     margin-left:600px;
     float=left;
+=======
+	width:200px;
+	margin-top:250px;
+    margin-left:600px;
+    font-
+>>>>>>> f3afffb69a80dc29695e791cf9d12019d0185bbc
 }
 
 .ending{
@@ -118,6 +132,7 @@ nav ul li a{
 }
 .myfolio{
 	background-color: black;
+<<<<<<< HEAD
    text-align: center;
 }
 
@@ -129,10 +144,25 @@ a{
 	text-decoration:none;
 }
 
+=======
+}
+a{
+	text-decoration:none;
+}
+p{
+	font-size:35px;
+	margin-left:20px;
+    float:left;
+    text-align:center;
+    background-color:pink;
+    font-color:orange; 
+}
+>>>>>>> f3afffb69a80dc29695e791cf9d12019d0185bbc
 
 
 .aboutmyself h5{
 	font-size:25px;
+<<<<<<< HEAD
 	color: red;
 }
 .myfolio h4{
@@ -205,3 +235,25 @@ h3{
 .mom2 p{
 	font-size: 25px;
 }
+=======
+}
+.myfolio h4{
+	font-color:yellow;
+    font-size:15px;
+}
+.image1{
+	box-shadow: 4.5px 4px 6px 2px rgba(0,0,0,0.6);
+    margin-right:1100px;	
+    margin-top:20px;
+}
+
+.image2{
+	margin-right:500px;
+}
+.image3{
+	margin-left:300px;
+}
+.image4{
+	margin-left:1000px;
+}
+>>>>>>> f3afffb69a80dc29695e791cf9d12019d0185bbc
